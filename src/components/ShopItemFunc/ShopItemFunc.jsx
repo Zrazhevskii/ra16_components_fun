@@ -2,7 +2,6 @@ import './ShopItemFunc.css';
 
 export const ShopItemFunc = (props) => {
     const { item } = props;
-        console.log(item);
     return (
         <article>
             <div className='main-content'>
