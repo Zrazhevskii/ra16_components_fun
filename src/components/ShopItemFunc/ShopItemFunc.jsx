@@ -1,4 +1,4 @@
-import './ShopItemFunc.css';
+// import './ShopItemFunc.css';
 
 const ShopItemFunc = (props) => {
     const { item } = props;
