@@ -1,7 +1,6 @@
 import './ShopItemFunc.css';
 
-
-export const ShopItemFunc = (props) => {
+const ShopItemFunc = (props) => {
     const { item } = props;
     return (
         <article>
@@ -25,3 +24,5 @@ export const ShopItemFunc = (props) => {
         </article>
     );
 };
+
+export default ShopItemFunc
